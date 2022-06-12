@@ -7,7 +7,7 @@
   - `JavaScript` (backend/fronted, DApps)
   - `HTML/CSS`
   - `DevOps`: 
-  -  - `Linux` administration (Debian-like systems), 
+     - `Linux` administration (Debian-like systems), 
   -  - Writing `bash` scripts 
   -  - Building `deb` packages
   -  - `Docker/Docker-Compose`
