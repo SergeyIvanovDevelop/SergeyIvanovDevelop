@@ -8,18 +8,18 @@
   - `HTML/CSS`
   - `DevOps`: 
      - `Linux` administration (Debian-like systems), 
-  -  - Writing `bash` scripts 
-  -  - Building `deb` packages
-  -  - `Docker/Docker-Compose`
-  -  - `CI/CD` (GitHub Actions)
-  -  - `OS virtualization` (VMWare, VBox)
+     - Writing `bash` scripts 
+     - Building `deb` packages
+     - `Docker/Docker-Compose`
+     - `CI/CD` (GitHub Actions)
+     - `OS virtualization` (VMWare, VBox)
   - Experience in software development using `steganography/cryptography`
   - Knowledge and understanding of `IP`, `TCP/UDP`, `HTTP` and other network protocols
   - `Web3`: 
-  -  - Knowledge and understanding of the `blockchain architecture` of the `Bitcoin` network and the `Ethereum` network
-  -  - `Geth, Truffle, Ganache`
-  -  - Writing smart contracts on `Solidity` (`ERC20`, `ERC721`, etc.) for `DApps (EVM)`, adding oracles in `DApps`
-  -  - Understanding the operation of `CEX`, `DEX`, blockchain network `bridges`
+     - Knowledge and understanding of the `blockchain architecture` of the `Bitcoin` network and the `Ethereum` network
+     - `Geth, Truffle, Ganache`
+     - Writing smart contracts on `Solidity` (`ERC20`, `ERC721`, etc.) for `DApps (EVM)`, adding oracles in `DApps`
+     - Understanding the operation of `CEX`, `DEX`, blockchain network `bridges`
 - :black_nib: Have experience in writing `scientific articles` (experience in `R&D` department)
 - :loudspeaker: Experience in `speaking` to `technical & non-technical` audiences
 - :briefcase: Writing `technical task`, participation in negotiations with the `customer`
