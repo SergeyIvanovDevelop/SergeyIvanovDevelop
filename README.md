@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `Sergey Ivanov`.
+- 👋 Hi, I’m [Sergey Ivanov](http://www.linkedin.com/in/sergey-ivanov-developer).
 - 👀 I am interested in `backend/desktop` development and `web3` technologies.
 - :computer: Development experience:
   - `Golang` (backend/desktop development)
